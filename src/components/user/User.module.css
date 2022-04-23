@@ -1,0 +1,13 @@
+.wrapper{
+    display:flex;
+    box-sizing: border-box;
+    background: darkgreen;
+    flex-direction: column;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-around;
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+    border: black solid 3px;
+}

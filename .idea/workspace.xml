@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c6f0cd-1564-4832-8fde-1b2a7c854ca6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/compon_1/Compon_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/compon_1/Compon_1.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/User.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user_details/UserDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user_details/UserDetails.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -30,6 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -43,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650640410141</updated>
-      <workItem from="1650640412502" duration="819000" />
+      <workItem from="1650640412502" duration="9633000" />
+      <workItem from="1650693186198" duration="4083000" />
     </task>
     <servers />
   </component>
