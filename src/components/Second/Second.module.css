@@ -1,0 +1,8 @@
+.wrap{
+    height: 200px;
+    width: 200px;
+    background: limegreen;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+}
