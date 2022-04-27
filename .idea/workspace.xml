@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c6f0cd-1564-4832-8fde-1b2a7c854ca6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/buttons/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buttons/button.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/First/First.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Second/Second.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Second/Second.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Second_Paint/SecondPaint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home_page/home_page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +54,7 @@
       <updated>1650640410141</updated>
       <workItem from="1650640412502" duration="321000" />
       <workItem from="1650995723833" duration="5936000" />
-      <workItem from="1651039433047" duration="3771000" />
+      <workItem from="1651039433047" duration="4462000" />
     </task>
     <servers />
   </component>
